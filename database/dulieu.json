@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Khổ qua xào đậu hũ cà rốt chay",
+      "image": "https://minhhouseware.com.vn/wp-content/uploads/2020/12/kho-qua-xao-dau-hu-ca-rot-chay-recipe-main-photo.jpg",
+      "price": 400
+    },
+    {
+      "id": "3",
+      "name": " Canh rau xà lách xoong nấu nấm chay",
+      "image": "https://minhhouseware.com.vn/wp-content/uploads/2020/12/canh-rau-xa-lach-xoong-chay.jpg",
+      "price": 500
+    },
+    {
+      "id": "4",
+      "name": " Canh khoai mỡ chay",
+      "image": "https://minhhouseware.com.vn/wp-content/uploads/2020/12/cach-lam-canh-khoai-mo-chay-thom-ngon-ma-con-giam-can-201908051524384413.jpg",
+      "price": 200
+    },
+    {
+      "id": "5",
+      "name": " Bắp cải cuộn",
+      "image": "https://minhhouseware.com.vn/wp-content/uploads/2020/12/bap-cai-cuon-chay.jpg",
+      "price": 200
+    },
+    {
+      "id": "6",
+      "name": "Canh hạt sen nấm",
+      "image": "https://minhhouseware.com.vn/wp-content/uploads/2020/12/canh_nam_hat_sen_2.png",
+      "price": 200
+    },
+    {
+      "id": "7",
+      "name": " Canh khoai mỡ chay",
+      "image": "https://minhhouseware.com.vn/wp-content/uploads/2020/12/cach-lam-canh-khoai-mo-chay-thom-ngon-ma-con-giam-can-201908051524384413.jpg",
+      "price": 200
+    },
+    {
+      "id": "8",
+      "name": " Đậu Phụ Non Hấp Nấm Hương",
+      "image": "https://minhhouseware.com.vn/wp-content/uploads/2020/12/image_2020-12-07_142349.png",
+      "price": 200
+    },
+    {
+      "id": "9",
+      "name": "Canh chua chay",
+      "image": "https://minhhouseware.com.vn/wp-content/uploads/2020/12/canh-chua-chay-nam-rom.jpg",
+      "price": 200
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "123456"
+    },
+    {
+      "id": "aad4",
+      "username": "Hung",
+      "email": "Hung@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "5ec4",
+      "username": "Abc@gmail.com",
+      "email": "Abc@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "535e",
+      "username": "hungabcd12@gmail.com",
+      "email": "hungabcd12@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
